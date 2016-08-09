@@ -1,6 +1,0 @@
-{
-  "name": "API Gateway",
-  "description": "Starter project using Flask as a replacement for AWS APIGateway",
-  "repository": "https://nandabhat@bitbucket.org/nandabhat/endpoint",
-  "keywords": ["python", "flask", "api", "heroku"]
-}
