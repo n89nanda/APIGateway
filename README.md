@@ -22,6 +22,7 @@ Getting started
     $ git init
     $ git clone https://github.com/n89nanda/APIGateway.git
     $ cd APIGateway
+    $ source APIGateway/bin/activate
 
 ### Installing packages
     $ pip install -r requirements.txt
